@@ -14,10 +14,10 @@ If you're interested in reproducing my work, please start with retrieving the re
 
 |Step|Description|Notebook|
 |----|-----------|--------|
-|1|Download the dataset|N/A, follow steps in [Data Retrieval and Model Training](Data_Retrieval_and_Model_Training.md)|
+|1|Download the dataset|N/A, follow steps in [Data Retrieval and Model Training](Data_Retrieval_and_Model_Training_Setup.md)|
 |2|Filter the dataset|[00_Data_Retrieval.ipynb](code/00_Data_Retrieval.ipynb)|
 |3|Conduct Exploratory Data Analysis|[01_EDA.ipynb](code/01_EDA.ipynb)|
-|4|Prepare data for modeling|N/A, follow steps in [Data Retrieval and Model Training](Data_Retrieval_and_Model_Training.md)|
+|4|Prepare data for modeling|N/A, follow steps in [Data Retrieval and Model Training](Data_Retrieval_and_Model_Training_Setup.md)|
 |5|Model using Google Colab|[02A_UNET_RGB_Model_Training.ipynb](code/02A_UNET_RGB_Model_Training.ipynb) and [02B_UNET_Multispectral_Model_Training.ipynb](code/02B_UNET_Multispectral_Model_Training.ipynb)|
 |6|Evaluate the trained models|[03_Model_Evaluation.ipynb](code/03_Model_Evaluation.ipynb)|
 
